@@ -1,0 +1,21 @@
+
+@id=07117d96-4561-4a91-9abf-e92d6c20e9f2
+PUT  https://localhost:7139/breakfast/{{id}}
+Content-Type: application/json
+
+{
+    "name": "Lovers wakeup",
+    "description": "Everything vegan",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime":  "2022-04-08T11:00:00",
+    "savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette",
+        "Salad"
+    ],
+    "Sweet":[
+        "Cookie"
+    ]
+    
+}

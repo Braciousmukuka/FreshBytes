@@ -1,0 +1,22 @@
+POST https://localhost:7139/breakfast
+Content-Type: application/json
+
+{
+    "name": "Power Sunshine",
+    "description": "Everything vegan",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime":  "2022-04-08T11:00:00",
+    "savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette",
+        "Salad"
+    ],
+    "Sweet":[
+        "Cookie"
+    ]
+    
+}
+
+###
+ GET  https://localhost:7139/Breakfast/74e862c4-5563-4ea4-91ff-1f2bbd68482b

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzk4C0pumo9wBfxRjnntEnLsH4gA69JDZex2z1WJrogdF6ERIxwFwqEAFxN19lDgP/dB3SgsJsqBpyjREH1ymQ==",
+  "success": true,
+  "projectFilePath": "/home/bracious/Documents/Projects/FreshBytes/FreshBytes/FreshBytes.csproj",
+  "expectedPackageFiles": [
+    "/home/bracious/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
